@@ -2,7 +2,7 @@
 **Turning advocacy into algorithms — building AI and automation with purpose, empathy, and impact.**  
 _Motto: keep building, always learning_
 
-📍 Lüneburg, Germany | 🏃‍♂️ Sub-4h Berlin Marathon | 🌏 Former human rights & environmental advocate (Philippines)
+📍 Lüneburg, Germany | 🏃‍♂️ Sub-4h Berlin Marathon | 🌏 Human rights & environmental advocate (Philippines)
 
 ---
 
