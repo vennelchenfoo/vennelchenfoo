@@ -23,13 +23,12 @@ _Motto: keep building, always learning_
 
 ## 🌱 Projects
 - **AI-Powered Expense Tracker** – Telegram → Google Sheets with auto-categorization  
-- **RAG Slack Bot** – Answers team questions from internal docs  
-- **LolaGuard (Prototype)** – AI literacy & scam detection app for seniors
+- **RAG Slack/MS Teams Bot** – Answers team questions from internal docs through Slack or Teams
 
 ---
 
 ## 🎯 Open to
-Internships or junior roles in **Data/AI, Automation, or Platform Ops** (Hamburg or remote in Germany)
+Internships or junior roles in **Data/AI, Automation Specialist** (Hamburg or remote in Germany)
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/vennelchenfoo/)
 
